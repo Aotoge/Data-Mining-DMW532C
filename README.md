@@ -1,2 +1,17 @@
-# Data-Mining-DMW532C
-Repo for Lab Codes of Data Mining &amp; Warehousing Course (IDMW 2019, IIIT-Allahabad)
+# Data Mining And Warehousing
+### Indian Institue of Information Technology Allahabad
+
+```
+ Course code  :	IDMW532C
+ Semester     :	5
+```
+
+![](https://img.shields.io/badge/language-C-brightgreen.svg)
+![](https://img.shields.io/badge/language-python-blueviolet)
+
+ 
+## Index
+
+* Lab assignments:
+  + Lab 1:
+  + Lab 2:
