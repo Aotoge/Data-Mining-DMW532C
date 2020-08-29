@@ -12,6 +12,10 @@
  
 ## Index
 
+* Lab Test:
+  + Modified K-Means Algorithm
+  + Radius Neighbour Classifier
+
 * Lab assignments:
   + Lab 1:
   + Lab 2:
