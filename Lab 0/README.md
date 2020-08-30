@@ -1,5 +1,5 @@
 # Lab 0
-## Data Mining BAsics - Apriori Algorithm
+## Data Mining Basics - Apriori Algorithm
 
 ![](https://img.shields.io/badge/language-C%2B%2B-ff69b4)
 
