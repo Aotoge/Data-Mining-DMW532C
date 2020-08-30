@@ -7,6 +7,7 @@
 ```
 
 ![](https://img.shields.io/badge/language-C-brightgreen.svg)
+![](https://img.shields.io/badge/language-C%2B%2B-ff69b4)
 ![](https://img.shields.io/badge/language-python-blueviolet)
 
  
@@ -17,5 +18,5 @@
   + Radius Neighbour Classifier
 
 * Lab assignments:
-  + Lab 1:
-  + Lab 2:
+  + Lab 0:
+    + Apriori Algorithm
