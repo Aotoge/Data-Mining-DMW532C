@@ -20,3 +20,6 @@
 * Lab assignments:
   + Lab 0:
     + Apriori Algorithm
+    + Apriori Algorithm using Hash Function
+    + Frequent Set Generation
+    + Apriori Algorithm on Integrated and Partioned Sets
