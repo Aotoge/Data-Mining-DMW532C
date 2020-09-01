@@ -1,7 +1,7 @@
 # Lab 0
 ## Data Mining Basics - Apriori Algorithm
 
-![](https://img.shields.io/badge/language-C%2B%2B-ff69b4)
+![](https://img.shields.io/badge/language-C%2B%2B11-ff69b4)
 
 ### Contents
 * [Apriori Algorithm](#apri)
@@ -25,6 +25,12 @@ ___
 ## Apriori Algorithm using Hash Function
 Implement Apriori algorithm for association rules using hash function. Run the algorithm with two different user defined support and confidence level to find frequent item sets from L<sub>2</sub> and C<sub>2</sub>. Any of chess, mushroom or retail dataset can be used.
 
+To execute:
+```
+g++ apriori_using_hash.cpp -std=c++11
+./a.out
+```
+
 ___
 
 <a name="freq"></a>
@@ -37,6 +43,13 @@ ___
 <a name="int"></a>
 ## Apriori Algorithm on Integrated and Partioned Sets
 Use partitioning to divide a data set in two partitions. Apply Apriori algorithm and compare the frequent pattern results between integrated and partitioned data sets.
+
+To execute:
+```
+g++ apriori_with_partitions.cpp -std=c++11
+./a.out
+```
+
 ___
 
 
