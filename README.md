@@ -23,3 +23,7 @@
     + Apriori Algorithm using Hash Function
     + Frequent Set Generation
     + Apriori Algorithm on Integrated and Partioned Sets
+  + Lab 1:
+    + FP Growth Algorithm
+    + Comparison of Apriori and FP Growth
+    + FP Growth using Linked List & Adjacency Matrix
