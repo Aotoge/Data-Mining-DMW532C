@@ -27,3 +27,5 @@
     + FP Growth Algorithm
     + Comparison of Apriori and FP Growth
     + FP Growth using Linked List & Adjacency Matrix
+  + Lab 2:
+    + Decision Trees (ID3, C4.5 & CART) 
