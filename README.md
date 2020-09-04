@@ -29,3 +29,6 @@
     + FP Growth using Linked List & Adjacency Matrix
   + Lab 2:
     + Decision Trees (ID3, C4.5 & CART) 
+  + Lab 3:
+    + K-Means Clustering
+    + Partition Around Medoids (PAM) Clustering
