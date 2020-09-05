@@ -14,6 +14,12 @@ ___
 ## K-Means Clustering
 
 Apply K-means algorithm to 'Absenteeism At Work' dataset and find corresponding accuracy and mean squared error in prediction.
+
+To execute:
+```
+pip3 install -r requirements.txt
+python3 kmeans.py
+```
 ___
 
 <a name="b"></a>
