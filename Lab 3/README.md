@@ -27,6 +27,11 @@ ___
 
 Apply PAM algorithm to 'Absenteeism At Work' dataset and find corresponding accuracy and mean squared error in prediction.
 
+To execute:
+```
+pip3 install -r requirements.txt
+python3 pam.py
+```
 ___
 
 <a name="c"></a>
