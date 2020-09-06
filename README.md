@@ -32,3 +32,11 @@
   + Lab 3:
     + K-Means Clustering
     + Partition Around Medoids (PAM) Clustering
+  + Lab 4:
+    + Single Layer Perceptron
+  + Lab 5:
+    + Hierarchical Clustering Algorithm
+    + BIRCH Algorithm
+    + DBSCAN Algorithm
+    + OPTICS Algorithm
+    + COBWEB Clustering Algorithm
