@@ -13,10 +13,6 @@
  
 ## Index
 
-* Lab Test:
-  + Modified K-Means Algorithm
-  + Radius Neighbour Classifier
-
 * Lab assignments:
   + Lab 0:
     + Apriori Algorithm
@@ -40,3 +36,7 @@
     + DBSCAN Algorithm
     + OPTICS Algorithm
     + COBWEB Clustering Algorithm
+
+* Lab Test:
+  + Modified K-Means Algorithm
+  + Radius Neighbour Classifier
